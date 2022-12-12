@@ -1,3 +1,3 @@
 # Welcome to new site
 theme:architect
-![cat](cat.jfif)
+![cat](OIP.jfif)
